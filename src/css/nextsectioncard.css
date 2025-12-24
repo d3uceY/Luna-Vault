@@ -1,0 +1,28 @@
+
+#nextsectioncards {
+    border: 1px solid #DDD6FE;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 100px;
+}
+
+#nextsectioncards img {
+    width: 359px;
+    height: 400px;
+}
+
+..nextsectioncardstext {
+    background-color: #FFFFFF;
+}
+
+.nextsectioncardstext h1 {
+    font-size: 20px;
+    border-bottom: 1px solid #A78BFA;
+    padding-bottom: 10px;
+}
+
+.nextsectioncardstext p {
+    font-size: 16px;
+    color: #6B21A8;
+}
+

@@ -1,0 +1,41 @@
+
+#nextsection {
+    display: grid;
+    justify-content: center;
+    background-image: linear-gradient(to bottom, #EDE9FE, #FFFFFF);
+}
+
+#nextsection h2 {
+    margin-top: 100px;
+    color:  #7C3AED;
+    background-color: #FFFFFF;
+    width: 120px;
+    padding: 5px 10px 5px 10px;
+    font-size: 20px;
+    border-radius: 30px;
+    justify-self: center;
+}
+
+#nextsection h1 {
+    width: 712px;
+    justify-self: center;
+    text-align: center;
+    font-size: 40px;
+}
+
+#nextsection p {
+    width: 800px;
+    color: #7C3AED;
+    justify-self: center;
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 50px;
+}
+
+#cardcontainer {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    width: 85%;
+    gap: 30px;
+    justify-self: center;
+}

@@ -1,0 +1,26 @@
+
+#featurescards {
+    border: 2px solid #A78BFA;
+    padding: 10px;
+    border-radius: 10px;
+    width: 402px;
+    height: 336px;
+}
+
+#featurescards img {
+    width: 402px;
+    height: 211px; 
+    max-width: 100%;
+    height: auto;
+     
+}
+
+#featurescards h2 {
+    color: #2E1065;
+    font-size: 20px;
+}
+
+#featurescards p {
+    color: #5B21B6;
+    font-size: 16px;
+}
